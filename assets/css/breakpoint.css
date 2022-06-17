@@ -1,21 +1,28 @@
 /* Small devices (landscape phones, 576px and up) */
-@media (max-width:  576px) { 
+@media (min-width: 32px) and (max-width: 767px) {  
     .card-h {
         flex-direction: column;
+        padding: 33px auto;
     }
     .card-h img {
-        max-width: 80px;
-        max-height: 80px;
+        max-width: 160px;
+        max-height: 160px;
     }
     .card-h .card-content {
         text-align: center;
         font-size: 1em;
     }
+    .card-h .card-content .subtitle {
+        font-size: 0.9rem;
+    }
  }
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) { 
-
+    .card-h {
+        flex-direction: row;
+        padding: 33px 23px;
+    }
  }
 
 /* Large devices (desktops, 992px and up) */

@@ -62,7 +62,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 .hero {
     width: 100%;
-    background: url(assets/img/hero.jpg) no-repeat;
+    background: url('../img/hero.jpg') no-repeat;
     background-position: top center;
     background-size: cover;
     background-attachment: fixed;
@@ -92,6 +92,7 @@ h1,h2,h3,h4,h5,h6 {
    flex-direction: row;
    gap: 20px;
    width: 90%;
+   text-align: left;
    max-width: 600px;
    min-height: 300px;
    align-items: center;
@@ -130,6 +131,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 .card-content {
     z-index: 9;
+    text-align: left;
 }
 .title {
     font-size: 2.3em;
