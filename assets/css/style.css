@@ -121,6 +121,11 @@ h1,h2,h3,h4,h5,h6 {
     background: var(--blue);
     border-radius: 50%;
 }
+.card-h img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
 .card-content {
     z-index: 9;
 }
