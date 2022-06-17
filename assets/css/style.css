@@ -88,6 +88,8 @@ h1,h2,h3,h4,h5,h6 {
 .card-h {
    position: relative;
    display: flex;
+   flex-wrap: wrap;
+   flex-direction: row;
    gap: 20px;
    width: 90%;
    max-width: 600px;
