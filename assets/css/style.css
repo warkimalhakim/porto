@@ -35,8 +35,7 @@ p, span, em, small {
 }
 .section-pretitle {
     position: relative;
-    letter-spacing: var(--spacing);
-    padding-left: var(--spacing);
+    letter-spacing: 10px;
     color: var(--black);
     display: block;
 }
@@ -44,6 +43,9 @@ p, span, em, small {
     font-size: 2.3rem;
     font-weight: 700;
     display: block;
+}
+.section-title-deskripsion {
+    font-weight: 500;
 }
 .py-99 {
     padding: 99px 23px !important;
@@ -330,4 +332,21 @@ p, span, em, small {
 .feature:hover .f-text {
     font-weight: bold;
     transform: translateY(-15px);
+}
+
+/* Education */
+.edu-figure {
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    overflow: hidden;
+}
+.edu-figure img {
+    position: absolute;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    height: auto;
+    /* min-width: 500px; */
+    object-fit: cover;
 }
