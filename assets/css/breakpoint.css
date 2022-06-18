@@ -1,5 +1,5 @@
 /* Small devices (landscape phones, 576px and up) */
-@media (min-width: 32px) and (max-width: 767px) {  
+@media (min-width: 32px) and (max-width: 767px) { 
     .card-h {
         flex-direction: column;
         padding: 33px auto;
