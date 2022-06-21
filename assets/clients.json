@@ -1,0 +1,43 @@
+{
+    "title"     : "Warkim Rapii",
+    "modified"  : "2022-06-21",
+    "clients"   : [
+        {
+            "name"  : "Educipta",
+            "desc"  : "Pembuatan Website dan Optimasi SEO",
+            "business"  : "Tax Training & Consultant",
+            "company"   : "PT Edu Cipta Solusi",
+            "year"  : "2012",
+            "url"   : "https://educipta.com",
+            "img"   : "assets/img/projects/educipta.jpg"
+        },
+        {
+            "name"  : "MyEducipta",
+            "desc"  : "Pembuatan Website",
+            "business"  : "Video e-Learning",
+            "company"   : "PT Edu Cipta Solusi",
+            "year"  : "2021",
+            "url"   : "https://myeducipta.com",
+            "img"   : "assets/img/projects/myeducipta.jpg"
+        },
+        {
+            "name"  : "FireSystem",
+            "desc"  : "Pembuatan Website dan Optimasi SEO",
+            "business"  : "Fire System Consultant",
+            "company"   : "PT Global Mandiri Primatch",
+            "year"  : "2019",
+            "url"   : "https://firesystem.id",
+            "img"   : "assets/img/projects/firesystem.jpg"
+        },
+        {
+            "name"  : "FireSystem",
+            "desc"  : "Pembuatan Website dan Optimasi SEO",
+            "business"  : "Fire System Consultant",
+            "company"   : "PT Global Mandiri Primatch",
+            "year"  : "2019",
+            "url"   : "",
+            "img"   : ""
+        }
+    ]
+
+}
