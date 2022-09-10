@@ -30,13 +30,148 @@
             "img"   : "assets/img/projects/firesystem.jpg"
         },
         {
-            "name"  : "FireSystem",
+            "name"  : "Bekam Bintaro",
             "desc"  : "Pembuatan Website dan Optimasi SEO",
-            "business"  : "Fire System Consultant",
-            "company"   : "PT Global Mandiri Primatch",
+            "business"  : "Bekam Home Service & On Site",
+            "company"   : "Griya Sehat Royhaan",
             "year"  : "2019",
-            "url"   : "",
+            "url"   : "https://www.bekambintaro.com/",
+            "img"   : "assets/img/projects/bekambintaro.jpg"
+        },
+        {
+            "name"  : "Cinta Dhuafa",
+            "desc"  : "Pembuatan Website dan Web Design",
+            "business"  : "Yayasan Dakwah & Sosial",
+            "company"   : "Yayasan Miftaah Al-Jannah Li Masykuriin",
+            "year"  : "2020",
+            "url"   : "https://cintadhuafa.org/",
+            "img"   : "assets/img/projects/cintadhuafa.jpg"
+        },
+        {
+            "name"  : "Citra Kartini",
+            "desc"  : "Pembuatan Website dan Web Design",
+            "business"  : "Outsourcing Asisten Rumah Tangga",
+            "company"   : "PT Citra Kartini Mandiri",
+            "year"  : "2015",
+            "url"   : "http://citrakartini.com/",
             "img"   : ""
+        },
+        {
+            "name"  : "Bimbel STAN Taro",
+            "desc"  : "Web Design",
+            "business"  : "Bimbingan Belajar USM PKN Stan",
+            "company"   : "",
+            "year"  : "2017",
+            "url"   : "http://bimbelstantaro.com/",
+            "img"   : ""
+        },
+        {
+            "name"  : "Cermin News",
+            "desc"  : "Pembuatan Website dan Web Design",
+            "business"  : "Portal Berita",
+            "company"   : "PT Cermin Cyber Media",
+            "year"  : "2018",
+            "url"   : "https://cerminnews.com/",
+            "img"   : ""
+        },
+        {
+            "name"  : "Daftar Grab Online",
+            "desc"  : "Pembuatan Website dan Web Design",
+            "business"  : "Pendaftaran Ojek Online",
+            "company"   : "",
+            "year"  : "2018",
+            "url"   : "https://daftargrabonline.net/",
+            "img"   : ""
+        },
+        {
+            "name"  : "Definite Bike Eco",
+            "desc"  : "Pembuatan Website, Design & SEO",
+            "business"  : "Penjualan Sepeda dan Spare Parts BMX",
+            "company"   : "",
+            "year"  : "2017",
+            "url"   : "http://www.definitebikeco.com/",
+            "img"   : ""
+        },
+        {
+            "name"  : "Djava Transindo",
+            "desc"  : "Custom WP Theme",
+            "business"  : "Website Rental Kendaraan",
+            "company"   : "",
+            "year"  : "2018",
+            "url"   : "http://www.djavatransindo.co.id/",
+            "img"   : ""
+        },
+        {
+            "name"  : "GV Advertising",
+            "desc"  : "Redesign",
+            "business"  : "Jasa Pembuatan Reklame",
+            "company"   : "Ggriya Visual Advertising",
+            "year"  : "2017",
+            "url"   : "http://gvadvs.com/",
+            "img"   : ""
+        },
+        {
+            "name"  : "Indonesia Headlines",
+            "desc"  : "Layouting & Redesign",
+            "business"  : "Portal Berita",
+            "company"   : "Indonesia Headlines",
+            "year"  : "2017",
+            "url"   : "http://indonesiaheadlines.co.id/",
+            "img"   : ""
+        },
+        {
+            "name"  : "Koken Metari",
+            "desc"  : "Pembuatan Website",
+            "business"  : "Kursus Masak",
+            "company"   : "Koken Metari",
+            "year"  : "2016",
+            "url"   : "http://kokenmetari.com/",
+            "img"   : ""
+        },
+        {
+            "name"  : "Octagon",
+            "desc"  : "Pembuatan Website",
+            "business"  : "Company Profile",
+            "company"   : "Octagon Media Grafika",
+            "year"  : "2016",
+            "url"   : "http://octagon.web.id/",
+            "img"   : "assets/img/projects/octagon.jpg"
+        },
+        {
+            "name"  : "HitTax",
+            "desc"  : "Pembuatan Website & SEO",
+            "business"  : "Vendor Software Pajak PPh Pasal 21/26",
+            "company"   : "CV Piranti Pajaku",
+            "year"  : "2017",
+            "url"   : "https://pirantipajaku.co.id",
+            "img"   : "assets/img/projects/pirantipajaku.jpg"
+        },
+        {
+            "name"  : "Primasource Asia",
+            "desc"  : "Pembuatan Website",
+            "business"  : "Company Profile",
+            "company"   : "PT Primasource Asia",
+            "year"  : "2016",
+            "url"   : "https://www.primasource-asia.com/",
+            "img"   : ""
+        },
+        {
+            "name"  : "Mytech Engineering",
+            "desc"  : "Throubleshoot & Redesign",
+            "business"  : "Energy Saving",
+            "company"   : "PT Mytech Engineering",
+            "year"  : "2015",
+            "url"   : "https://www.ptmytech-eng.co.id/",
+            "img"   : "assets/img/projects/ptmytech.jpg"
+        },
+        {
+            "name"  : "Rafi Utama",
+            "desc"  : "SEO Optimasi",
+            "business"  : "Bengkel Las dan Atap Rumah",
+            "company"   : "",
+            "year"  : "2018",
+            "url"   : "https://rafiutama.com/",
+            "img"   : "assets/img/projects/rafiutama.jpg"
         }
     ]
 
